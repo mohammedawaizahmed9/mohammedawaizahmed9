@@ -74,7 +74,7 @@ Tech: SQL, Power BI, Excel
 
 ## Interests
 
-`Data Analytics` `Data Science` `Data Engineering` `Business Analytics` `AI / ML` `NLP` `Fake Review Detection` `Bot Detection` `User Behavior Analysis`
+`Data Analytics` `Data Science` `Data Engineering` `Business Analytics` `AI / ML` `NLP` 
 
 ---
 
